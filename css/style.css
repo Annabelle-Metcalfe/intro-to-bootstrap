@@ -1,0 +1,27 @@
+body {
+    background-color: rgba(211, 211, 211, 0.911);
+    font-family: Roboto;
+}
+
+.alert-container {}
+
+.callout-container {
+    height: 100vh;
+    background: url("../images/whiskey-background.jpg") no-repeat bottom right fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
+
+.features-container {}
+
+
+
+.quotes-container {}
