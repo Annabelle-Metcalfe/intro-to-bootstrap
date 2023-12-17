@@ -185,3 +185,16 @@ body {
     margin-top: 10px;
     color: #f05f40;
 }
+
+.feature .btn:hover,
+.feature .btn:active,
+.feature .btn:focus,
+.feature .btn:active:focus {
+    background-color: #a7a7a7;
+    border-color: #a7a7a7;
+    color: white;
+}
+
+.features p {
+    text-align: justify;
+}
